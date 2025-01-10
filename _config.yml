@@ -12,7 +12,7 @@ title                    : "ReneeLIZ"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://reneeliz.github.io/page/"  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://reneeliz.github.io/page/  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ReneeLiZ/page"
 
@@ -21,7 +21,7 @@ repository               : "ReneeLiZ/page"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_5355.png"
+  avatar           : "IMG_5355.png"
   name             : "About ME"
   pronouns         : "she/her"  
   bio              : "Just the girl"
