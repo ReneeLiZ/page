@@ -21,7 +21,7 @@ repository               : "ReneeLiZ/page"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_5355.png"
+  avatar           : "bio1.png"
   name             : "About ME"
   pronouns         : "she/her"  
   bio              : "Just the girl"
