@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Renee LIZIYIN"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,8 +10,9 @@ redirect_from:
 
 
 
-Hi！ I'm ReneeLi. Currently the full-time lecturer in the School of Media and Communication in Shenzhen Univeristy, Shenzhen, China.
+Hi！ I'm Renee 李梓音 
 ======
+Currently the full-time lecturer in the School of Media and Communication in Shenzhen Univeristy, Shenzhen, China.
 Interstsed in Data Feminism, Critical Data studies, Vis and journalism, Media studies and Mediatization.
 
 Doing Vis projects and teaching my kids!
