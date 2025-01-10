@@ -12,7 +12,7 @@ redirect_from:
 
 Hi！ 
 
-Currently the full-time lecturer in the School of Media and Communication in Shenzhen Univeristy, Shenzhen, China.
+I'm Renee.Currently the full-time lecturer in the School of Media and Communication in Shenzhen Univeristy, Shenzhen, China.
 Interstsed in Data Feminism, Critical Data studies, Vis and journalism, Media studies and Mediatization.
 
 Doing Vis projects and teaching my kids!
@@ -30,11 +30,14 @@ Courses teaching：
 
 深圳大学： 
 2024-2025 秋：《互联网程序设计：基于Python语言》、《人机交互设计》。 
+
 2024-2025 春：《数据理论与数据素养》、《数据新闻与可视化》、《机器学习导论》、《Javascript网页前端交互设计》、《数据处理与SPSS应用》。
 
 外聘经历： 
 2023-2024 春：《数据挖掘与分析》，浙江传媒学院。 
-2021-2022： 《数据新闻》《数据挖掘与可视化》，宁波财经学院。 
+
+2021-2022： 《数据新闻》《数据挖掘与可视化》，宁波财经学院。
+
 2023.03 - 2023.09 Mentor, Studiementor i Studenterrådgivningens SPS-afdeling, with students in media studies, Copenhagen, Denmark.
 
 
@@ -86,9 +89,13 @@ Academic projects：
 ======
 
 国家社会科学基金青年项目《基于算法策展的新闻创新》，2020. 09 - 2024. 06（参与）。 
+
 教育部人文社会科学研究青年基金项目《技术变革与社会转型中的新闻业创新：理念、过程和社会影响——一项新闻民族志研究》，2018. 09 - 2023. 03（参与）。 
+
 浙江大学高等教育“十三五”第二批教学改革研究项目:《融合型媒体人才的数据可视化教学：实践导向与跨学科培育》（zdjg19001）2019. 11 - 2020. 11（参与）。 
+
 浙江大学主办、北京数可视科技有限公司协办的《2020中国数据内容发展报告》项目，撰写项目白皮书。 
+
 撰写浙江大学融媒体研究中心《2020中国智能媒体使用研究报告》，2020。
 
 
