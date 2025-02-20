@@ -113,4 +113,6 @@ Academic projects：
 
 Contact： 
 ======
-ziyin.li.Renee@outlook.com (如果是因为我给你的成绩太低，需要投诉，请右转院长办公室😊）
+ziyin.li.Renee@outlook.com。
+同学们写的教评会仔细看，感谢大家提出关于课程的建议。
+（如需投诉，请右转院长办公室😊）
