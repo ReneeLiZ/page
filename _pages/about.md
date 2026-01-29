@@ -51,8 +51,6 @@ Li, Z. Moral Misbehavior Versus Feminist Sexuality: Text Analysis on How Chinese
 
 Li, Z. (2022). Approaching “Data Feminism”: Visualizations to Shed Light on Inequality. Journal of Communication Inquiry, OnlineFirst. doi.org/10.1177/01968599221139488.
 
-Li, Z., & Wiehn, T. (2024). The disappearing of matchmaking work? Sign up as dating apps user. (Abstract Accepted/Full paper in preparation). Lateral (Journal of the Cultural Studies Association).
-
 Li, Z. (2020). China Data Content Development Report (Zhou R, Ed.). Hangzhou: Zhejiang University Press.
 
 Li, Z.,& Han, W. (2016). Image Database Based on Big Data, Engineering and Technology (ISSN1671-5519), 05, 260-261.
