@@ -43,6 +43,8 @@ Courses teaching：
 
 Output：
 ======
+Ziyin Li & Tanja Wiehn, "The Platformized Matchmaking Labor: What Do Prosumers Do in Dating Apps," Lateral 14.2 (2025).https://doi.org/10.25158/L14.2.X
+
 Li, Z. Moral Misbehavior Versus Feminist Sexuality: Text Analysis on How Chinese Youth See Dating Apps. Sexuality & Culture (2025). https://doi.org/10.1007/s12119-024-10304-1.
 
 周睿鸣、李梓音(2023)。《中国数据新闻创作者的数据观研究》。《新闻大学》，第 02 期, 第 56-68 页。
